@@ -1,5 +1,5 @@
 @Suit04
-Feature: 가계부 환경설정 시나리오
+Feature: Moneybook GNB>Setting scenario
 
 Scenario: 29/30. 잠금설정> 암호잠금 설정 및 변경
 		Given 환경설정 > 암호잠금 클릭 > 암호잠금 체크 > 암호를 입력

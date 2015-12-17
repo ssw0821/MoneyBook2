@@ -1,5 +1,5 @@
 @Suit01
-Feature: 가계부 한달보기 시나리오
+Feature: Moneybook GNB>Month scenario
 
 Scenario: 1.수입내역 저장 후 계속입력
     Given 내역쓰기 선택> 수입내역 입력 후 "저장 후 계속입력" 선택

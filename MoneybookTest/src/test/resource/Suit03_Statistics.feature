@@ -1,5 +1,5 @@
 @Suit03
-Feature: 가계부 통계 시나리오
+Feature: Moneybook GNB>Statistics scenario
 
 	
 Scenario: 16.분류별 지출> 금액 수정	

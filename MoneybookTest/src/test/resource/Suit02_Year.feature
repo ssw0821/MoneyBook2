@@ -1,5 +1,5 @@
 @Suit02
-Feature: 가계부 일년보기 시나리오
+Feature: Moneybook GNB>Year scenario
 
 Scenario: 14.날짜네비게이션 정상이동
 	Given GNB일년보기로 이동

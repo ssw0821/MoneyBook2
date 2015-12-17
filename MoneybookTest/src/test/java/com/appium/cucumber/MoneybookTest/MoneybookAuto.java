@@ -1728,10 +1728,10 @@ public class MoneybookAuto {
 		    		driver.findElement(By.id("com.nhn.android.moneybook:id/outgo_amt")).sendKeys("3000");
 		    	 }		    		    	
 		    }	
-			// driver.findElement(By.id("com.nhn.android.moneybook:id/selected_lcat_name")).click();
+			 driver.findElement(By.id("com.nhn.android.moneybook:id/selected_lcat_name")).click();
 			
-			// driver.findElement(By.name("주거/통신")).click();
-			// driver.findElement(By.name("공과금")).click();
+			 driver.findElement(By.name("주거/통신")).click();
+			 driver.findElement(By.name("공과금")).click();
 			
 			driver.findElement(By.id("com.nhn.android.moneybook:id/save_outgo_item")).click();
 			Thread.sleep(500);
@@ -1868,10 +1868,10 @@ public class MoneybookAuto {
 		    		driver.findElement(By.id("com.nhn.android.moneybook:id/outgo_amt")).sendKeys("100000");
 		    	 }		    		    	
 		    }	
-			// driver.findElement(By.id("com.nhn.android.moneybook:id/selected_lcat_name")).click();
+			 driver.findElement(By.id("com.nhn.android.moneybook:id/selected_lcat_name")).click();
 			
-			// driver.findElement(By.name("의복/미용")).click();
-			// driver.findElement(By.name("헤어/뷰티")).click();
+			 driver.findElement(By.name("의복/미용")).click();
+			 driver.findElement(By.name("헤어/뷰티")).click();
 			
 			driver.findElement(By.id("com.nhn.android.moneybook:id/save_outgo_item")).click();
 			Thread.sleep(500);

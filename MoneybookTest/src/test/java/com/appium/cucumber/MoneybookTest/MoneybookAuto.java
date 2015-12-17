@@ -128,7 +128,7 @@ public class MoneybookAuto {
 		driver.findElement(By.id("com.nhn.android.moneybook:id/tag_names")).sendKeys("상여");
 		driver.findElement(By.id("com.nhn.android.moneybook:id/save_income_item")).click();
 		Thread.sleep(1000);
-		//12345
+		
 	}
 
 	@Then("^한달보기에 수입내역 (\\d+)건 저장되어 노출$")
